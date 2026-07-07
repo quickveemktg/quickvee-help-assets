@@ -2,6 +2,44 @@
 
 Source WordPress media downloaded from `https://merchants.quickvee.com/wp-content/uploads/` and rehosted through `quickveemktg/quickvee-help-assets` via jsDelivr.
 
+## `/features/` semantic primary set
+
+- `logo`: `https://merchants.quickvee.com/wp-content/uploads/2022/12/logo-color.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/quickvee-logo-color.png`
+- `hero_pos`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/Mask-Group-6079.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/hero-pos-system.png`
+- `icon_user_employee`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6020@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-user-employee-management.png`
+- `icon_shift_management`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6021@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-shift-management-accountability.png`
+- `icon_register_sales`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6022@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-register-sales-efficiency.png`
+- `icon_inventory`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6023@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-inventory-management.png`
+- `icon_customer_loyalty`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6024@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-customer-engagement-loyalty.png`
+- `icon_reporting`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6026@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-reporting-analytics.png`
+- `icon_online_ordering`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6025@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-online-ordering-delivery.png`
+- `icon_back_office`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6029@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-back-office-advanced-tools.png`
+- `icon_compliance`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6027@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-compliance-customization.png`
+- `icon_hardware`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Mask-Group-6028@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/icon-hardware-integrations.png`
+- `feature_user_employee`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/User-Employee-Management.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-user-employee-management.png`
+- `feature_shift`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-9796.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-shift-management-accountability.png`
+- `feature_register_sales`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-9651@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-register-sales-efficiency.png`
+- `feature_inventory`: `https://merchants.quickvee.com/wp-content/uploads/2025/04/inventory-03@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-inventory-management.png`
+- `feature_loyalty`: `https://merchants.quickvee.com/wp-content/uploads/2025/04/BOgo-1-02@2x-1.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-customer-engagement-loyalty.png`
+- `feature_reporting`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-11145.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-reporting-analytics.png`
+- `feature_online_ordering`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-9659@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-online-ordering-delivery.png`
+- `feature_back_office`: `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-9661@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-back-office-advanced-tools.png`
+- `feature_compliance_light`: `https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6017@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-compliance-customization-light.png`
+- `feature_compliance_dark`: `https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6018@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-compliance-customization-dark.png`
+- `feature_hardware`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-11144.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/feature-hardware-integrations.png`
+- `testimonial_exotic`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839-4@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-exotic-smoke-vape.png`
+- `testimonial_righteous_roots`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839-5@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-righteous-roots-smoke-shop.png`
+- `testimonial_alcosta`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10855@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-alcosta-smoke-shop.png`
+- `testimonial_twisted`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-twisted-smoke-shop.png`
+- `testimonial_smokers_gift`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839-1@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-smokers-gift-shop.png`
+- `testimonial_vapelife`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839-2@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-vapelife.png`
+- `testimonial_madhouse`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Madhouse-Logo@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-madhouse-vapes.png`
+- `testimonial_gorilla`: `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10839-3@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/testimonial-gorilla-smoke-n-vape.png`
+- `bottom_cta`: `https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-9923.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/bottom-cta-pos-upgrade.png`
+- `chat_emoji`: `https://cdn.jsdelivr.net/emojione/assets/png/1f44b.png?v=2.2.7` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/chat-wave-emoji.png`
+- `chat_attention`: `https://embed.tawk.to/_s/v4/assets/images/attention-grabbers/168-r-br.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/chat-attention-grabber.svg`
+- `og_social`: `https://merchants.quickvee.com/wp-content/uploads/2026/07/Link-Banners-07-1024x537.jpg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/og-features-social-banner.jpg`
+
 ## `/features/`
 
 - `https://merchants.quickvee.com/wp-content/uploads/2025/07/openv2.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/features/167-openv2.svg`
