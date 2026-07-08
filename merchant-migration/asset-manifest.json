@@ -7457,5 +7457,280 @@
     "bytes": 3421,
     "content_type": "image/png",
     "sha256": "74b35136b1af4f29a3f768e444037ee44188c971f6dfc7b2967ad543ace51e76"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2026/06/Mask-Group-6042-1.png",
+    "asset_path": "merchant-migration/conversion/demo-hero-pos.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-hero-pos.png",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 948225,
+    "content_type": "image/png",
+    "sha256": "88c9ed63c6f51852d8b3a72a4061b741ec4f81e508e2c71107cf9811a469ebbf"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6129-1.svg",
+    "asset_path": "merchant-migration/conversion/demo-fast-setup-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-fast-setup-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2619,
+    "content_type": "image/svg+xml",
+    "sha256": "6408e5ab0006bac5255e26f7b7e96afb494c3783a85d246c12470001b7a863c5"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6131-1.svg",
+    "asset_path": "merchant-migration/conversion/demo-checkout-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-checkout-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 1971,
+    "content_type": "image/svg+xml",
+    "sha256": "6025bdb097c9fdc88ea43fd5c7e6b44f76b42eb1fef6b3e8846bdbe5ca05cab8"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6130-1.svg",
+    "asset_path": "merchant-migration/conversion/demo-inventory-sync-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-inventory-sync-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2957,
+    "content_type": "image/svg+xml",
+    "sha256": "7d966097c49e16b5947f6fb2d84b341895e85c64c5616ea35e2ae2973c09497e"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-6158@2x.png",
+    "asset_path": "merchant-migration/conversion/demo-retailer-feature-image.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-retailer-feature-image.png",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 525163,
+    "content_type": "image/png",
+    "sha256": "3d8cd2fc8d83a530f260ab1c6f0bbc3f9663cbcce3e862abfaa68c97e1bb0e28"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-4747-1.svg",
+    "asset_path": "merchant-migration/conversion/demo-age-scan-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-age-scan-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2125,
+    "content_type": "image/svg+xml",
+    "sha256": "91c63a0e48b21c92fcb574a66bf531aa16c7260d669141dd80dac2063b555c60"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-4746-3.svg",
+    "asset_path": "merchant-migration/conversion/demo-vape-inventory-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-vape-inventory-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2676,
+    "content_type": "image/svg+xml",
+    "sha256": "8185d060ab978959013c15d70ce7003fdf910fcec7dcc6b071a72ca20e6b3633"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-6119.svg",
+    "asset_path": "merchant-migration/conversion/demo-online-ordering-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-online-ordering-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 3887,
+    "content_type": "image/svg+xml",
+    "sha256": "a95c6c61b3fda294907f6b75f363130e45145a5cab3ffac14198099ce620631c"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-6133.svg",
+    "asset_path": "merchant-migration/conversion/demo-loyalty-bogo-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-loyalty-bogo-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2798,
+    "content_type": "image/svg+xml",
+    "sha256": "6214dbd40d29f7aeac22c461dfe7feb6cf531cd95ea270753198c4fe16b31f05"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/Mask-Group-6132.svg",
+    "asset_path": "merchant-migration/conversion/demo-reporting-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-reporting-icon.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2251,
+    "content_type": "image/svg+xml",
+    "sha256": "57f01c769bebdbf92319f74bd3a1486ebdc7b306a31d3b369880f78dc05a3cd1"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-9924.png",
+    "asset_path": "merchant-migration/conversion/demo-retailer-logos.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-retailer-logos.png",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 186714,
+    "content_type": "image/png",
+    "sha256": "c52519ae01d0443a92604552293dcfbcd00aa81e2e9e8c7629997a56c3765604"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Group-9706.svg",
+    "asset_path": "merchant-migration/conversion/demo-quote-mark.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-quote-mark.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 2925,
+    "content_type": "image/svg+xml",
+    "sha256": "dd88338476a4b86e76692aa01367c58b7236094f960b3ed14892f6b19623e037"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10310.png",
+    "asset_path": "merchant-migration/conversion/demo-how-it-works-art.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-how-it-works-art.png",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 239999,
+    "content_type": "image/png",
+    "sha256": "3cd45c0b208a28d1293f3ea693fb5e8c6e5ec745730163187198b5efe0be90ae"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10312.svg",
+    "asset_path": "merchant-migration/conversion/demo-step-arrow.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-step-arrow.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 1107,
+    "content_type": "image/svg+xml",
+    "sha256": "706865a3371d9ee04cb26cee713175065a5dd597a163e81ba23198311ce097c2"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10313.svg",
+    "asset_path": "merchant-migration/conversion/demo-step-badge.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/demo-step-badge.svg",
+    "used_by": [
+      "/request-a-demo/"
+    ],
+    "bytes": 1073,
+    "content_type": "image/svg+xml",
+    "sha256": "28e214ac9687d22e8a52e25edbb35911d2ca68edc686d4c5116b5744480f5a72"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6120.svg",
+    "asset_path": "merchant-migration/conversion/signup-tailored-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-tailored-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 2936,
+    "content_type": "image/svg+xml",
+    "sha256": "2e95eed4de362c15dfe5206ff6e6d05c18d322fcff8196a0f3c4ab86491ea97c"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-4747-3.svg",
+    "asset_path": "merchant-migration/conversion/signup-compliance-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-compliance-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 2118,
+    "content_type": "image/svg+xml",
+    "sha256": "22b01dc424863bcc98f31faf1ec88f110ec32f1ab2f7d150bffcfbd28143c777"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6119.svg",
+    "asset_path": "merchant-migration/conversion/signup-loyalty-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-loyalty-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 3795,
+    "content_type": "image/svg+xml",
+    "sha256": "049f6a6be6faedde53583472225c3b770d010c48ce41a91106a6eff5c73458d9"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6315.svg",
+    "asset_path": "merchant-migration/conversion/signup-online-ordering-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-online-ordering-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 2807,
+    "content_type": "image/svg+xml",
+    "sha256": "20f6620dafcd9e82b7d98f410abafe2ba6f26f57a449ed94d9a0bb2794a9df1e"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6314.svg",
+    "asset_path": "merchant-migration/conversion/signup-checkout-sync-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-checkout-sync-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 1204,
+    "content_type": "image/svg+xml",
+    "sha256": "bc22dac55f093524db63cd9153e182d38f7ff20c963438f57dd8404d4d52628d"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/Mask-Group-6316.svg",
+    "asset_path": "merchant-migration/conversion/signup-support-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-support-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 1903,
+    "content_type": "image/svg+xml",
+    "sha256": "483812b991ceeb4a0b47ae24f215127a357cb3bcb760555707692380f37ff077"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/04/g3000.svg",
+    "asset_path": "merchant-migration/conversion/signup-question-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/signup-question-icon.svg",
+    "used_by": [
+      "/get-quickvee/"
+    ],
+    "bytes": 2346,
+    "content_type": "image/svg+xml",
+    "sha256": "6536c57f84b5633c763f21ae5b2d956abf876250ecda7264567c4ffd7f9e4ae5"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Mask-Group-6014-1.png",
+    "asset_path": "merchant-migration/conversion/contact-hero-team.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/contact-hero-team.png",
+    "used_by": [
+      "/contact/"
+    ],
+    "bytes": 95196,
+    "content_type": "image/png",
+    "sha256": "4c9d3c4e24b564d6840e76900e5e738669f99a7e3a5d0d4ce2e54f97cee3b5a2"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-9725@2x.png",
+    "asset_path": "merchant-migration/conversion/contact-support-sales-art.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/contact-support-sales-art.png",
+    "used_by": [
+      "/contact/"
+    ],
+    "bytes": 250735,
+    "content_type": "image/png",
+    "sha256": "02700b06626babd2d5cd473af324c4fbc06abadba43ca32936a9c1e789d5251e"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/g3000.svg",
+    "asset_path": "merchant-migration/conversion/contact-faq-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/conversion/contact-faq-icon.svg",
+    "used_by": [
+      "/contact/"
+    ],
+    "bytes": 2337,
+    "content_type": "image/svg+xml",
+    "sha256": "1e4fd397bcb0af577c0bf43532d69d3a516a5c8180f74e2bd6066a801f1e7d17"
   }
 ]
