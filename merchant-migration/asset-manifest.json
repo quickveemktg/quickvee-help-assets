@@ -7171,5 +7171,291 @@
     "bytes": 42601,
     "content_type": "image/jpeg",
     "sha256": "22483fdc1736d07a300b40c00e3cfdd3235feb7eb3960ad5339bc069ebdca68b"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/logo.svg",
+    "asset_path": "merchant-migration/pricing/quickvee-comparison-logo.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/quickvee-comparison-logo.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 4714,
+    "content_type": "image/svg+xml",
+    "sha256": "42610bc3c34472a60d92a8ac2cce7f16fded6b49ab24b1667fc73c34dbd02818"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/QuickveeBlue-01.png",
+    "asset_path": "merchant-migration/pricing/quickvee-blue-mark.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/quickvee-blue-mark.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 2930,
+    "content_type": "image/png",
+    "sha256": "9e4711f2292f4a664cecadc23a82ccdabccd8887631daa5be3ed9a4626645321"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/lightspeed.svg",
+    "asset_path": "merchant-migration/pricing/lightspeed-logo.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/lightspeed-logo.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 3681,
+    "content_type": "image/svg+xml",
+    "sha256": "c6dd0c2ceb768ed2036d86da9c8a1d2eab0bbd6cc814e63c414ae74107780738"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/05/clover-network-inc-vector-logo.svg",
+    "asset_path": "merchant-migration/pricing/clover-logo.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/clover-logo.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 2103,
+    "content_type": "image/svg+xml",
+    "sha256": "8cc2bcb84a41ddf5798ccfde4708d5593a2fa87d9d1a11e676144c328dd85127"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Clip-path-group.svg",
+    "asset_path": "merchant-migration/pricing/comparison-included-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-included-icon.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 1753,
+    "content_type": "image/svg+xml",
+    "sha256": "c827deffdec600ffac087c0f7909be054c9a8de0b89a799aff2d986baaedc316"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10603-1.svg",
+    "asset_path": "merchant-migration/pricing/comparison-warning-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-warning-icon.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 2556,
+    "content_type": "image/svg+xml",
+    "sha256": "872b1a4acde0524793007b7f5b0736d08c481485764c4ce0f111b8d3733e1287"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10622.svg",
+    "asset_path": "merchant-migration/pricing/comparison-unavailable-icon.svg",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-unavailable-icon.svg",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 347,
+    "content_type": "image/svg+xml",
+    "sha256": "1f094ba6d406f75e36b9cd79543c7e6735a51eec00d9f6bf38c24884563e5864"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-9701-1-1.png",
+    "asset_path": "merchant-migration/pricing/pricing-hardware-bundle.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/pricing-hardware-bundle.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 342808,
+    "content_type": "image/png",
+    "sha256": "5404f7e6caa92938749fcc3e830587ae0c7a25ef996fba50d6019f40c7a2db83"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/43792-01@2x.png",
+    "asset_path": "merchant-migration/pricing/pricing-scale-illustration.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/pricing-scale-illustration.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 1189004,
+    "content_type": "image/png",
+    "sha256": "c331cec6e212a6995b6d2e5e73fbfa83688abccbb9b510b5dbb8827cd9bc2797"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8863@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-j-and-l.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-j-and-l.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 13127,
+    "content_type": "image/png",
+    "sha256": "4824f12b5e2eeb8cc64c0edeae77d2310b06f95e8c9476e31da93a7526a4a110"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8871@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-sattco-smoke-shop.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-sattco-smoke-shop.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 11736,
+    "content_type": "image/png",
+    "sha256": "fabba61b406c4331baafb707cc95e50179ba075449f67c0744a4e89356e358c2"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8859@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-kvc.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-kvc.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 9580,
+    "content_type": "image/png",
+    "sha256": "92fdf4d37aafc8dd4440c325d1355bc34e08e55d3e1461b01833ef3fc867a3dc"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8870@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-mascot.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-mascot.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 20469,
+    "content_type": "image/png",
+    "sha256": "4ad218210bdb86a0dbfd0ecf31bf70b8c9a080a9dcbf9da3e387be65e7ef1a0e"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8868@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-9th-street.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-9th-street.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 10047,
+    "content_type": "image/png",
+    "sha256": "92ad4d6c3c326e1fcc9902db7c15ed586444725672fcbcee0a6506e1f2aef746"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8872@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-3-monkeys.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-3-monkeys.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 14945,
+    "content_type": "image/png",
+    "sha256": "de30a3b20fa465356602277d4c90d100340226a7daa2b21ae39eb0d10ecb1e86"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-271@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-spark-smoke-shop.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-spark-smoke-shop.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 11128,
+    "content_type": "image/png",
+    "sha256": "ec8348cbcd4bbb90e6daa22a22f4829ecf8f0c714f5383d3c14fb8aad3d069f5"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8867@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-vapor.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-vapor.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 16669,
+    "content_type": "image/png",
+    "sha256": "5b9d4e0b652a38deb67a92af5eb4d619be311c711f881a454355429351d73ba4"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8866@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-dragon.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-dragon.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 21747,
+    "content_type": "image/png",
+    "sha256": "e6499314999c313cf5fff8cbb4eb00039247d657e916fbf0c625e61a56997e29"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8874@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-express.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-express.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 22445,
+    "content_type": "image/png",
+    "sha256": "b0f4a217b4806485c9f1a7ff6bb9fe8263c1b1aeb5b9a4e7927f20124bda32da"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8873@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-twisted.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-twisted.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 11510,
+    "content_type": "image/png",
+    "sha256": "bc14671576a55c7ff284f86c77c016a0fda23ad5415ae480d8d8ce03af1e42f1"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8869@2x.png",
+    "asset_path": "merchant-migration/pricing/merchant-logo-miracle-smoke-shop.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-miracle-smoke-shop.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 14355,
+    "content_type": "image/png",
+    "sha256": "b4d2421f0af3167e453873e93f858a129c644b8f5f73f3e17d1e6beb6aff5725"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10884.png",
+    "asset_path": "merchant-migration/pricing/merchant-proof-customers.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-customers.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 4092,
+    "content_type": "image/png",
+    "sha256": "833b93266c54e97354e5234c4a2e4ce6fce8a8e2fad2630f0bcff4e6de42c14a"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10885.png",
+    "asset_path": "merchant-migration/pricing/merchant-proof-spark-bahama.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-spark-bahama.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 5616,
+    "content_type": "image/png",
+    "sha256": "681ab34b99d2541e204f2f19fb6adc51265ebc54032d4e1de2a9f7dbdfff2f76"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10886.png",
+    "asset_path": "merchant-migration/pricing/merchant-proof-row-3.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-3.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 3928,
+    "content_type": "image/png",
+    "sha256": "3dc0d5bada251f5563cad81533dcea142acbf72052369ea928c8065c8f9530ab"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10887.png",
+    "asset_path": "merchant-migration/pricing/merchant-proof-row-4.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-4.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 6324,
+    "content_type": "image/png",
+    "sha256": "449e581944728c5eb632657f07bda5cd3df66e3b8008e6b381cb021b69187b15"
+  },
+  {
+    "source_url": "https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10920.png",
+    "asset_path": "merchant-migration/pricing/merchant-proof-row-5.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-5.png",
+    "used_by": [
+      "/pricing/"
+    ],
+    "bytes": 3421,
+    "content_type": "image/png",
+    "sha256": "74b35136b1af4f29a3f768e444037ee44188c971f6dfc7b2967ad543ace51e76"
   }
 ]

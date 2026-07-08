@@ -769,3 +769,32 @@ Source WordPress media downloaded from `https://merchants.quickvee.com/wp-conten
 - `https://merchants.quickvee.com/wp-content/uploads/2026/06/138e27bb7d77e70e39e52873e034a64d4fe6bc23-800x533.jpg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/posts/kratom-delta8-cbd-smoke-shop-compliance-2026/13-138e27bb7d77e70e39e52873e034a64d4fe6bc23-800x533.jpg`
 - `https://merchants.quickvee.com/wp-content/uploads/2026/06/cf0491da88c5e2d8a0b1c47849fb9594cd6e2054.jpg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/posts/kratom-delta8-cbd-smoke-shop-compliance-2026/14-cf0491da88c5e2d8a0b1c47849fb9594cd6e2054.jpg`
 
+
+## `/pricing/`
+
+- `https://merchants.quickvee.com/wp-content/uploads/2025/05/logo.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/quickvee-comparison-logo.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/QuickveeBlue-01.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/quickvee-blue-mark.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/05/lightspeed.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/lightspeed-logo.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/05/clover-network-inc-vector-logo.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/clover-logo.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/06/Clip-path-group.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-included-icon.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10603-1.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-warning-icon.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/06/Group-10622.svg` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/comparison-unavailable-icon.svg`
+- `https://merchants.quickvee.com/wp-content/uploads/2026/06/Group-9701-1-1.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/pricing-hardware-bundle.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/43792-01@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/pricing-scale-illustration.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8863@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-j-and-l.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8871@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-sattco-smoke-shop.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8859@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-kvc.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8870@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-mascot.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8868@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-9th-street.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8872@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-3-monkeys.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-271@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-spark-smoke-shop.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8867@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-vapor.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8866@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-dragon.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8874@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-express.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8873@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-twisted.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/03/Group-8869@2x.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-logo-miracle-smoke-shop.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10884.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-customers.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10885.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-spark-bahama.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10886.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-3.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10887.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-4.png`
+- `https://merchants.quickvee.com/wp-content/uploads/2025/07/Group-10920.png` → `https://cdn.jsdelivr.net/gh/quickveemktg/quickvee-help-assets@main/merchant-migration/pricing/merchant-proof-row-5.png`
